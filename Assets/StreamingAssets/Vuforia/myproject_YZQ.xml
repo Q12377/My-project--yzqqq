@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="huanjing_vuforia_max" size="1.000000 1.000000" />
+    <ImageTarget name="siwang_vuforia_max" size="1.000000 0.998106" />
+    <ImageTarget name="zuie_vuforia_rgb" size="1.000000 1.000000" />
+    <ImageTarget name="youle_vuforia_texture" size="1.000000 1.000000" />
+    <ImageTarget name="xingfu_vuforia_texture" size="1.000000 1.000000" />
+    <ImageTarget name="jiaoyi_vuforia_texture" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
